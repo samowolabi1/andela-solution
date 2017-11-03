@@ -1,0 +1,32 @@
+body{background:#fff;width:100%}
+ul.err-area li{color:red}
+.data-table{float:left;display:inline-block}
+.data-table table{border-collapse:collapse;border:1px solid #ddd;}
+.page-data{};
+
+.content{
+	background-color: #d7def0;
+}
+
+.sect{
+	background-color: #9c9c9c;
+	border: 1px solid #fff;
+	margin-bottom: 40px;
+}
+
+.sect h2{
+	color: white;
+}
+
+.sectupd{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.textcolor{color: red;}
+
+th{color: red;}
+
+
+
+
